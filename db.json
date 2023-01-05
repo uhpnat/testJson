@@ -8,6 +8,33 @@
             "valueIP": 0,
             "giamGiaIphone": "??????",
             "giaIphone": 10000
+        },
+           {
+            "imgThongBao": "./img/top-mungkhaitruong.svg",
+            "imgIphone": "./img/ip14/iPhone14-ShopDunk-do.png",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "valueIP": 0,
+            "giamGiaIphone": "??????",
+            "giaIphone": 10000
+        },
+           {
+            "imgThongBao": "./img/top-mungkhaitruong.svg",
+            "imgIphone": "./img/ip14/iPhone14-ShopDunk-do.png",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "valueIP": 0,
+            "giamGiaIphone": "??????",
+            "giaIphone": 10000
+        },
+           {
+            "imgThongBao": "./img/top-mungkhaitruong.svg",
+            "imgIphone": "./img/ip14/iPhone14-ShopDunk-do.png",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "valueIP": 0,
+            "giamGiaIphone": "??????",
+            "giaIphone": 10000
         }
     ],
     "watch": [
